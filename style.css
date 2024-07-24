@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.boxes {
+    background-image: url(https://cdn.eyeem.com/thumb/8df53ede758bb031aab0976e0d967699551b6352-1545662146014/640/480);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1920px;
+    height: 953px;
+}
+
+.box1 {
+    display: flex;
+    gap: 20px;
+    color: white;
+    justify-content: right;
+}
+
+.title1 {
+    color: white;
+    padding: 15px;
+    text-align: left;
+    margin-right: 1100px;
+}
+
+.span3 {
+    color: orange;
+}
+
+.title2 {
+    text-align: right;
+    padding: 20px 20px;
+}
+
+.box2 {
+    text-align: center;
+    padding-top: 400px;
+
+}
+
+.text1 {
+    padding-bottom: 10px;
+    color: white;
+}
+
+.span1 {
+    color: aquamarine;
+}
+
+.span2 {
+    color: orange;
+}
+
+.text2 {
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.text3 {
+    background-color: white;
+    color: black;
+    width: 100px;
+    margin: auto;
+    border-radius: 30px;
+}
